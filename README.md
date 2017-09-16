@@ -36,6 +36,12 @@
     
 2.javaWeb（后台+前端）
 - AmazonDemo
+ - /src/main/java/com/amazon/web/controller/serachController
+ - /src/main/java/com/amazon/web/service/serachService
+- webapp
+ - FigBook
+  -index.jsp
+  -analyser.jsp
 ```
 ## 项目分工
 ```
