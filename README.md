@@ -38,10 +38,10 @@
 - AmazonDemo
  - /src/main/java/com/amazon/web/controller/serachController
  - /src/main/java/com/amazon/web/service/serachService
-- webapp
- - FigBook
-  -index.jsp
-  -analyser.jsp
+ - webapp
+  - FigBook
+   -index.jsp # 搜索栏首页
+   -analyser.jsp # 分析页面
 
 3.平台展示示例图片
 - imageDemo
