@@ -1,0 +1,37 @@
+.book-picture{
+    width: 100%;
+    height: 30%;
+    /* text-align: center; */
+    /* background-color: red */
+}
+.book-img{
+    position: relative;
+    /* z-index:99999; */
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    /* background-color: red */
+}
+.info-footer{
+    position: absolute;
+    bottom: 60px;
+    text-align: center;
+}
+.immersive_slider img{
+    height: 96%;
+    margin:0 auto;
+    
+}
+.app-header{
+    top:0;
+}
+.wordcloud_div{
+    text-align: center;
+}
+#slide_1_bg{
+    width:0px;
+    height: 0px;
+}
+.abstract{
+    padding:10px;
+}

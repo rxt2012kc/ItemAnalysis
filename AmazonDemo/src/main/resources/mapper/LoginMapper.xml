@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.shiker.web.dao.ILoginDao">
+    <cache flushInterval="60000" size="512" eviction="LRU" readOnly="true"/>
+    <select id="getUser" statementType="PREPARED" resultType="java.util.HashMap">
+        SELECT * FROM user
+    </select>
+</mapper>
