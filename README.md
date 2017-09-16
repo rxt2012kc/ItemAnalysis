@@ -42,6 +42,9 @@
  - FigBook
   -index.jsp
   -analyser.jsp
+
+3.平台展示示例图片
+- imageDemo
 ```
 ## 项目分工
 ```
