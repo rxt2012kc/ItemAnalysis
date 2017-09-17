@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Implementation of crawler for Amazon Review Information
+Implementation of crawler, sentiment analysis and keyword analysis for Amazon Review Information
 @author renxintao
 @date 2017/09/14
 """
