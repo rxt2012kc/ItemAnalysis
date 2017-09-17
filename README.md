@@ -1,4 +1,3 @@
-# FigBook
 ## 需求分析
 ```
 浏览亚马逊网站选购商品时，种类繁多的商品往往让人眼花缭乱，当选择一个商品进入商品页面时，页面上丰富的信息，如销量、库存量、评价信息等，
@@ -23,17 +22,6 @@
 ## 项目路径
 ```
 1.自然语言处理模块
-- amazon_flask
- - flaskr:将爬虫模块，情感分析模块，关键词提取模块封装为resful接口，与java后台进行通信。
-  - flaskr.py
- - emotion:情感分析模块
-  - emotionanalysis_amazon.py
- - keyword:关键词提取模块
-  - keyword.py
- - indexspider:爬虫模块
-  - indexspider
-   - spiders
-    - spider.py
     
 2.javaWeb（后台+前端）
 - AmazonDemo
@@ -46,12 +34,4 @@
 
 3.平台展示示例图片
 - imageDemo
-```
-## 项目分工
-```
-1.自然语言处理:包括爬虫获取商品的用户评论信息模块，评论情感分析模块，评论关键词提取模块，评论摘要提取模块--任鑫涛（renxintao）
-2.java后台：项目搭建--任鑫涛（renxintao）；项目开发--任鑫涛(renxintao)，孙陈娜
-3.前端：张思遥，贾已
-4.各模块之间的交互与联调--任鑫涛（renxintao）
-5.项目总负责，项目架构设计，推动项目进展：任鑫涛（renxintao）
 ```
