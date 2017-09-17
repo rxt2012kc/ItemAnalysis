@@ -23,7 +23,7 @@
 ## 项目路径
 ```
 1.自然语言处理模块
-- amazon_flas
+- amazon_flask
  - flaskr:将爬虫模块，情感分析模块，关键词提取模块封装为resful接口，与java后台进行通信。
  - emotion:情感分析模块
   - emotionanalysis_amazon.py
